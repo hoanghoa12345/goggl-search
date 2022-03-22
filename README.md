@@ -13,8 +13,8 @@
 npm install
 ```
 ### Add API Key from RapidAPI
-(Subcribe Google Search API)[https://rapidapi.com/apigeek/api/google-search3]
-Add API Key to .env.local
+[Subcribe Google Search API](https://rapidapi.com/apigeek/api/google-search3)
+and add API Key to .env.local
 ```
 REACT_APP_RK=<api key>
 ```
